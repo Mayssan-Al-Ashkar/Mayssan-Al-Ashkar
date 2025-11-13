@@ -1,5 +1,9 @@
 # Who's Mayssan:
-Hi! I'm Mayssan Al Ashkar, a passionate Web Developer with a background in Computer Engineering. I love building interactive and user-friendly web applications, and I’m always eager to learn new technologies and improve my coding skills.<br><br>💻 I work mainly with Flutter, Python, React, Laravel<br><br>🌱 Currently exploring more about mobile app development<br><br>🔧 I enjoy working on full-stack projects and solving real-world problems<br><br>📚 I have experience with Firebase, Python,HTML, CSS, JavaScript, React, Laravel, Flutter, MySQL, and MongoDB
+Hi! I'm Mayssan Al Ashkar, a dedicated and detail-oriented Computer Engineer and aspiring AI Engineer with experience in web, mobile, and AI-driven application development. I love building interactive and user-friendly web applications, and I’m always eager to learn new technologies and improve my coding skills.
+<br><br>💻 I work mainly with Flutter, Python, React, Laravel, and AI tools.
+<br><br>🌱 Currently exploring more about mobile app development and applied AI engineering, including AI agents and intelligent automation.
+<br><br>🔧 I enjoy working on full-stack and AI-integrated projects, solving real-world problems through data-driven and automated solutions.
+<br><br>📚 I have experience with Firebase, Python, HTML, CSS, JavaScript, React, Laravel, Flutter, MySQL, MongoDB, and AI frameworks
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I4OTc0azE5M3NyMXo1Y3NmM3N6bWxoZG1nNWttcTEzcmx3aGNwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Star GIF">
@@ -21,14 +25,18 @@ Hi! I'm Mayssan Al Ashkar, a passionate Web Developer with a background in Compu
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-6C63FF?style=for-the-badge&logo=OpenAI&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mayssan-Al-Ashkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
